@@ -1,4 +1,4 @@
-import React from "react"
+
 import HeadingFC from "../components/Marketplace/Heading"
 import { Search } from "../components/Marketplace/Search"
 import {Flex} from "@radix-ui/themes"

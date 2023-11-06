@@ -1,4 +1,3 @@
-import React from "react";
 import { Flex, Heading, Text, TextField } from "@radix-ui/themes";
 import { ArrowRightIcon } from "@radix-ui/react-icons";
 import { logo } from "../images";

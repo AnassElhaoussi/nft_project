@@ -1,6 +1,5 @@
 import {Theme} from "@radix-ui/themes"
 import Navbar from "../Layout/Navbar"
-import {useLocation} from "react-router-dom"
 import { HeadingFC } from "../components/Leaderboards/Heading"
 import { HorizontalCards } from "../components/Leaderboards/HorizontalCards"
 import { VerticalCards } from "../components/Leaderboards/VerticalCards"

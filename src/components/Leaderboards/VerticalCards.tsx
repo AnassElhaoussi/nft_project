@@ -2,7 +2,7 @@ import { Table, Avatar, Flex, Text } from "@radix-ui/themes";
 import { dummyHorizontalCardsData } from "../../Constants";
 
 export const VerticalCards = () => {
-  const getRankingColor = (ranking) => {
+  const getRankingColor = (ranking: string) => {
     if (ranking === "1") {
       return {
         color: "#C8AA6D",

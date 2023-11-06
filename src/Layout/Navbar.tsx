@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Flex, Heading } from "@radix-ui/themes";
 import "@radix-ui/themes/styles.css";
 import { logo, ellipse } from "../images";
