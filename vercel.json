@@ -1,0 +1,7 @@
+{
+    "routes": [
+      { "src": "/", "dest": "/" },
+      { "src": "/marketplace", "dest": "/" },
+      { "src": "/leaderboards", "dest": "/" }
+    ]
+  }
